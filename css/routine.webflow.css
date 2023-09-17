@@ -3100,6 +3100,7 @@ footer .footer-logo img {
 
 .more_case_studies .row{
     display: flex;
+    flex-wrap: wrap;
 }
 
 .more_case_studies .col-lg-4{
